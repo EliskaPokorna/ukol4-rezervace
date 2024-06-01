@@ -1,0 +1,71 @@
+.summary {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.summary h2,
+.summary h3 {
+    color: #5f9ea0;
+}
+
+.summary__head {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.summary__photo {
+    width: 280px;
+    height: 180px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.summary__head-property {
+    margin-bottom: 15px;
+}
+
+.summary__name {
+    margin: 0;
+}
+
+.summary__adress,
+.summary__city,
+.summary__rating,
+.summary__room-type,
+.summary__room-price,
+.summary__number,
+.summary__dates,
+.summary__guests,
+.summary__services,
+.summary__room-total,
+.summary__check-in,
+.summary__check-out,
+.summary__service {
+    font-size: 0.9em;
+}
+
+.summary__rating {
+    font-weight: bold;
+    color: #f4a460;
+}
+
+.summary__detail,
+.summary__services,
+.summary__cancal {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.summary__cancel-text p {
+    margin: 0;
+    padding: 5px 0;
+}
+
+/* Přizpůsobte si další styly podle potřeby */
